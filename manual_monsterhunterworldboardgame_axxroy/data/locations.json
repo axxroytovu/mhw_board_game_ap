@@ -1,0 +1,94 @@
+[
+	{
+		"name": "Great Jagras Assigned Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": [],
+		"place_item_category": ["Quest"]
+	},
+	{
+		"name": "Great Jagras 2-star Investigation Quest Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": "Great Jagras 2-star Investigation Quest"
+	},
+	{
+		"name": "Great Jagras 3-star Investigation Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": "Great Jagras 3-star Investigation Quest"
+	},
+	{
+		"name": "Tobi-Kadachi 2-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "Tobi-Kadachi 2-star Investigation Quest"
+	},
+	{
+		"name": "Tobi-Kadachi 3-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "Tobi-Kadachi 3-star Investigation Quest"
+	},
+	{
+		"name": "Anjanath 2-star Investigation Complete",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "Anjanath 2-star Investigation Quest"
+	},
+	{
+		"name": "Anjanath 3-star Investigation Quest",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "Anjanath 3-star Investigation Quest"
+	},
+	{
+		"name": "Rathalos 2-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "Rathalos 2-star Investigation Quest"
+	},
+	{
+		"name": "Rathalos 4-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "Rathalos 4-star Investigation Quest"
+	},
+	{
+		"name": "Azure Rathalos 2-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "Azure Rathalos 2-star Investigation Quest"
+	},
+	{
+		"name": "Azure Rathalos 4-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"victory": true,
+		"category": ["Quest Complete"],
+		"requires": "Azure Rathalos 4-star Investigation Quest"
+	},
+	{
+		"name": "Tobi-Kadachi Assigned Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "Tobi-Kadachi Assigned Quest"
+	},
+	{
+		"name": "Anjanath Assigned Complete",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "Anjanath Assigned Quest"
+	},
+	{
+		"name": "Rathalos Assigned Complete",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "Rathalos Assigned Quest"
+	},
+	{
+		"name": "Azure Rathalos Assigned Complete",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "Azure Rathalos Assigned Quest"
+	}
+]

@@ -1,0 +1,23 @@
+{
+	"Great Jagras": 	{
+		"starting": true,
+		"connects_to": ["Tobi-Kadachi","Anjanath","Rathalos","Azure Rathalos"],
+		"requires": []
+	},
+	"Tobi-Kadachi": 	{
+		"connects_to": [],
+		"requires": "Tobi-Kadachi Assigned Quest"
+	},
+	"Anjanath": 	{
+		"connects_to": [],
+		"requires": "Anjanath Assigned Quest"
+	},
+	"Rathalos": 	{
+		"connects_to": [],
+		"requires": "Rathalos Assigned Quest"
+	},
+	"Azure Rathalos": 	{
+		"connects_to": [],
+		"requires": "Azure Rathalos Assigned Quest"
+}
+}
