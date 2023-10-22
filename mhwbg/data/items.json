@@ -1,0 +1,92 @@
+[
+	{
+		"count": "1",
+		"name": "Tobi-Kadachi Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Anjanath Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Rathalos Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Azure Rathalos Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Great Jagras 2-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Great Jagras 3-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Tobi-Kadachi 2-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Tobi-Kadachi 3-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Anjanath 2-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Anjanath 3-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Rathalos 2-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Rathalos 4-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Azure Rathalos 2-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": false
+	},
+	{
+		"count": "1",
+		"name": "Azure Rathalos 4-star Assigned Quest",
+		"category": ["Quest"],
+		"progression": true
+	},
+	{
+	    "count": "6",
+	    "name": "trap",
+	    "category": ["trap"],
+	    "progression": false
+	}
+]
