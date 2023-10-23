@@ -47,6 +47,19 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    exclude_categories = get_option_value(multiworld, player, "exclude_categories") or []
+    
+    # print(dir(item_pool[0]))
+    items_to_remove = [item["name"] for item in world.item_name_to_item.values() if "category" in item and len(exclude_categories.intersection(item["category"])) > 0]
+    item_pool = [item for item in item_pool if item.name not in items_to_remove]
+    
+    locations_to_remove = [location["name"] for location in world.location_name_to_location.values() if "category" in location and len(exclude_categories.intersection(location["category"])) > 0]
+    world.location_id_to_name = {id: name for (id, name) in world.location_id_to_name.items() if name not in locations_to_remove}
+    world.location_name_to_id = {name: id for (id, name) in world.location_id_to_name.items()}
+    world.location_names = world.location_name_to_id.keys()
+    
+    multiworld.clear_location_cache()
+    
     # import random
 
     # total_characters = get_option_value(multiworld, player, "total_characters_to_win_with") or 50
@@ -70,15 +83,15 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     # # remove the locations above from the multiworld as well
     # multiworld.clear_location_cache()
     
-    # for region in multiworld.regions:
-    #     locations_to_remove_from_region = []
+    for region in multiworld.regions:
+        locations_to_remove_from_region = []
 
-    #     for location in region.locations:
-    #         if location.name.replace("Beat the Game - ", "") not in character_names and location.player == player:
-    #             locations_to_remove_from_region.append(location)
+        for location in region.locations:
+            if location.name in locations_to_remove and location.player == player:
+                locations_to_remove_from_region.append(location)
 
-    #     for location in locations_to_remove_from_region:
-    #         region.locations.remove(location)
+        for location in locations_to_remove_from_region:
+            region.locations.remove(location)
                 
     # # modify the victory requirements to only include items that are in the item names list
     # victory_location = multiworld.get_location("__Manual Game Complete__", player)

@@ -3,7 +3,7 @@
 		"name": "Great Jagras Assigned Complete 1st",
 		"region": "Great Jagras",
 		"category": ["Quest Complete"],
-		"place_item_category": ["Quest"],
+		"place_item": "Great Jagras 2-star Investigation Quest",
 		"requires": []
 	},
 	{
