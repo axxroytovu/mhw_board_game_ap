@@ -1,94 +1,609 @@
 [
 	{
-		"name": "Great Jagras Assigned Complete",
+		"name": "Great Jagras Assigned Complete 1st",
 		"region": "Great Jagras",
 		"category": ["Quest Complete"],
-		"requires": [],
-		"place_item_category": ["Quest"]
+		"place_item_category": ["Quest"],
+		"requires": []
 	},
 	{
-		"name": "Great Jagras 2-star Investigation Quest Complete",
+		"name": "Great Jagras Repeat Quest 1",
 		"region": "Great Jagras",
 		"category": ["Quest Complete"],
-		"requires": "Great Jagras 2-star Investigation Quest"
+		"requires": []
+	},
+	{
+		"name": "Great Jagras Repeat Quest 2",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras Repeat Quest 3",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras 2-star Investigation Complete",
+		"region": "Great Jagras",
+		"category": ["Quest Complete"],
+		"requires": "|Great Jagras 2-star Investigation Quest|"
 	},
 	{
 		"name": "Great Jagras 3-star Investigation Complete",
 		"region": "Great Jagras",
 		"category": ["Quest Complete"],
-		"requires": "Great Jagras 3-star Investigation Quest"
-	},
-	{
-		"name": "Tobi-Kadachi 2-star Investigation Complete",
-		"region": "Tobi-Kadachi",
-		"category": ["Quest Complete"],
-		"requires": "Tobi-Kadachi 2-star Investigation Quest"
-	},
-	{
-		"name": "Tobi-Kadachi 3-star Investigation Complete",
-		"region": "Tobi-Kadachi",
-		"category": ["Quest Complete"],
-		"requires": "Tobi-Kadachi 3-star Investigation Quest"
-	},
-	{
-		"name": "Anjanath 2-star Investigation Complete",
-		"region": "Anjanath",
-		"category": ["Quest Complete"],
-		"requires": "Anjanath 2-star Investigation Quest"
-	},
-	{
-		"name": "Anjanath 3-star Investigation Quest",
-		"region": "Anjanath",
-		"category": ["Quest Complete"],
-		"requires": "Anjanath 3-star Investigation Quest"
-	},
-	{
-		"name": "Rathalos 2-star Investigation Quest",
-		"region": "Rathalos",
-		"category": ["Quest Complete"],
-		"requires": "Rathalos 2-star Investigation Quest"
-	},
-	{
-		"name": "Rathalos 4-star Investigation Quest",
-		"region": "Rathalos",
-		"category": ["Quest Complete"],
-		"requires": "Rathalos 4-star Investigation Quest"
-	},
-	{
-		"name": "Azure Rathalos 2-star Investigation Quest",
-		"region": "Azure Rathalos",
-		"category": ["Quest Complete"],
-		"requires": "Azure Rathalos 2-star Investigation Quest"
-	},
-	{
-		"name": "Azure Rathalos 4-star Investigation Quest",
-		"region": "Azure Rathalos",
-		"victory": true,
-		"category": ["Quest Complete"],
-		"requires": "Azure Rathalos 4-star Investigation Quest"
+		"requires": "|Great Jagras 3-star Investigation Quest|"
 	},
 	{
 		"name": "Tobi-Kadachi Assigned Complete",
 		"region": "Tobi-Kadachi",
 		"category": ["Quest Complete"],
-		"requires": "Tobi-Kadachi Assigned Quest"
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 1",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 2",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi Repeat Quest 3",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "|Tobi-Kadachi Assigned Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi 2-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "|Tobi-Kadachi 2-star Investigation Quest|"
+	},
+	{
+		"name": "Tobi-Kadachi 3-star Investigation Complete",
+		"region": "Tobi-Kadachi",
+		"category": ["Quest Complete"],
+		"requires": "|Tobi-Kadachi 3-star Investigation Quest|"
 	},
 	{
 		"name": "Anjanath Assigned Complete",
 		"region": "Anjanath",
 		"category": ["Quest Complete"],
-		"requires": "Anjanath Assigned Quest"
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 1",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 2",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath Repeat Quest 3",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "|Anjanath Assigned Quest|"
+	},
+	{
+		"name": "Anjanath 2-star Investigation Complete",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "|Anjanath 2-star Investigation Quest|"
+	},
+	{
+		"name": "Anjanath 3-star Investigation Quest",
+		"region": "Anjanath",
+		"category": ["Quest Complete"],
+		"requires": "|Anjanath 3-star Investigation Quest|"
 	},
 	{
 		"name": "Rathalos Assigned Complete",
 		"region": "Rathalos",
 		"category": ["Quest Complete"],
-		"requires": "Rathalos Assigned Quest"
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 1",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 2",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos Repeat Quest 3",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Rathalos 2-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Rathalos 2-star Investigation Quest|"
+	},
+	{
+		"name": "Rathalos 4-star Investigation Quest",
+		"region": "Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Rathalos 4-star Investigation Quest|"
 	},
 	{
 		"name": "Azure Rathalos Assigned Complete",
 		"region": "Azure Rathalos",
 		"category": ["Quest Complete"],
-		"requires": "Azure Rathalos Assigned Quest"
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 1",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 2",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos Repeat Quest 3",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Azure Rathalos Assigned Quest|"
+	},
+	{
+		"name": "Azure Rathalos 2-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Azure Rathalos 2-star Investigation Quest|"
+	},
+	{
+		"name": "Azure Rathalos 4-star Investigation Quest",
+		"region": "Azure Rathalos",
+		"category": ["Quest Complete"],
+		"requires": "|Azure Rathalos 4-star Investigation Quest|"
+	},
+	{
+		"name": "P1 Craft Alternate T1 Weapon",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Alternate T1 Weapon",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Iron Weapon T2",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Iron Weapon T3",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Iron Weapon T2",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Iron Weapon T3",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Bone Weapon T2",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Bone Weapon T3",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Bone Weapon T2",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Bone Weapon T3",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Jagras Weapon T3",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Jagras Weapon T4",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Kadachi Weapon T3",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Kadachi Weapon T4",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rathalos Weapon T3",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rathalos Weapon T4",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Anjanath Weapon T3",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Anjanath Weapon T4",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Bone Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Bone Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Bone Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Alloy Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Alloy Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Alloy Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Jagras Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Jagras Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Jagras Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Jagras Helm",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Jagras Mail",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Jagras Greaves",
+		"region": "Great Jagras",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Kadachi Helm",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Kadachi Mail",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Kadachi Greaves",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Kadachi Helm",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Kadachi Mail",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Kadachi Greaves",
+		"region": "Tobi-Kadachi",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Anja Helm",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Anja Mail",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Anja Greaves",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Anja Helm",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Anja Mail",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Anja Greaves",
+		"region": "Anjanath",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rathalos Helm",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rathalos Mail",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rathalos Greaves",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rathalos Helm",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rathalos Mail",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rathalos Greaves",
+		"region": "Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rath Soul Helm",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rath Soul Mail",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P1 Craft Rath Soul Greaves",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rath Soul Helm",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rath Soul Mail",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "P2 Craft Rath Soul Greaves",
+		"region": "Azure Rathalos",
+		"category": ["Crafting"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Head Break",
+		"region": "Great Jagras",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Body Break",
+		"region": "Great Jagras",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Great Jagras - Tail Break",
+		"region": "Great Jagras",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Head Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Body Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Tobi-Kadachi - Tail Break",
+		"region": "Tobi-Kadachi",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Head Break",
+		"region": "Anjanath",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Body Break",
+		"region": "Anjanath",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Anjanath - Tail Break",
+		"region": "Anjanath",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Head Break",
+		"region": "Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Body Break",
+		"region": "Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Tail Break",
+		"region": "Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Rathalos - Wing Break",
+		"region": "Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Head Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Body Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Tail Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break"],
+		"requires": []
+	},
+	{
+		"name": "Azure Rathalos - Wing Break",
+		"region": "Azure Rathalos",
+		"category": ["Part Break"],
+		"requires": []
 	}
 ]

@@ -27,60 +27,294 @@
 		"count":1,
 		"name": "Great Jagras 2-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Great Jagras 3-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tobi-Kadachi 2-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tobi-Kadachi 3-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Anjanath 2-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Anjanath 3-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Rathalos 2-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Rathalos 4-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Azure Rathalos 2-star Investigation Quest",
 		"category": ["Quest"],
-		"useful": true
+		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Azure Rathalos 4-star Investigation Quest",
 		"category": ["Quest"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "P1 Alternate Weapon T1",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Ore Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Ore Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Alternate Weapon T1",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Ore Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Ore Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Bone Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Bone Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Bone Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Bone Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Jagras Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Jagras Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Kadachi Weapon T2",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Kadachi Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Rathalos Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P1 Rathalos Weapon T4",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Anjanath Weapon T3",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "P2 Anjanath Weapon T4",
+		"category": ["Weapon","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Alloy Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Alloy Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Alloy Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Bone Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Jagras Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Kadachi Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Anja Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rathalos Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Helm",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Mail",
+		"category": ["Armor","Craftable"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Rath Soul Greaves",
+		"category": ["Armor","Craftable"],
+		"useful": true
 	}
 ]
