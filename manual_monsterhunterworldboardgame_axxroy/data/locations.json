@@ -181,325 +181,325 @@
 		"requires": "|Azure Rathalos 4-star Investigation Quest|"
 	},
 	{
-		"name": "P1 Craft Alternate T1 Weapon",
+		"name": "H1 Craft Alternate T1 Weapon",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Alternate T1 Weapon",
+		"name": "H2 Craft Alternate T1 Weapon",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Iron Weapon T2",
+		"name": "H1 Craft Iron Weapon T2",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Iron Weapon T3",
+		"name": "H1 Craft Iron Weapon T3",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Iron Weapon T2",
+		"name": "H2 Craft Iron Weapon T2",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Iron Weapon T3",
+		"name": "H2 Craft Iron Weapon T3",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Bone Weapon T2",
+		"name": "H1 Craft Bone Weapon T2",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Bone Weapon T3",
+		"name": "H1 Craft Bone Weapon T3",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Bone Weapon T2",
+		"name": "H2 Craft Bone Weapon T2",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Bone Weapon T3",
+		"name": "H2 Craft Bone Weapon T3",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Jagras Weapon T3",
+		"name": "H1 Craft Jagras Weapon T3",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Jagras Weapon T4",
+		"name": "H1 Craft Jagras Weapon T4",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Kadachi Weapon T3",
+		"name": "H2 Craft Kadachi Weapon T3",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Kadachi Weapon T4",
+		"name": "H2 Craft Kadachi Weapon T4",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rathalos Weapon T3",
+		"name": "H1 Craft Rathalos Weapon T3",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rathalos Weapon T4",
+		"name": "H1 Craft Rathalos Weapon T4",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Anjanath Weapon T3",
+		"name": "H2 Craft Anjanath Weapon T3",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Anjanath Weapon T4",
+		"name": "H2 Craft Anjanath Weapon T4",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Bone Helm",
+		"name": "H1 Craft Bone Helm",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Bone Mail",
+		"name": "H1 Craft Bone Mail",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Bone Greaves",
+		"name": "H1 Craft Bone Greaves",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Alloy Helm",
+		"name": "H2 Craft Alloy Helm",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Alloy Mail",
+		"name": "H2 Craft Alloy Mail",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Alloy Greaves",
+		"name": "H2 Craft Alloy Greaves",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Jagras Helm",
+		"name": "H1 Craft Jagras Helm",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Jagras Mail",
+		"name": "H1 Craft Jagras Mail",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Jagras Greaves",
+		"name": "H1 Craft Jagras Greaves",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Jagras Helm",
+		"name": "H2 Craft Jagras Helm",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Jagras Mail",
+		"name": "H2 Craft Jagras Mail",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Jagras Greaves",
+		"name": "H2 Craft Jagras Greaves",
 		"region": "Great Jagras",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Kadachi Helm",
+		"name": "H1 Craft Kadachi Helm",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Kadachi Mail",
+		"name": "H1 Craft Kadachi Mail",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Kadachi Greaves",
+		"name": "H1 Craft Kadachi Greaves",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Kadachi Helm",
+		"name": "H2 Craft Kadachi Helm",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Kadachi Mail",
+		"name": "H2 Craft Kadachi Mail",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Kadachi Greaves",
+		"name": "H2 Craft Kadachi Greaves",
 		"region": "Tobi-Kadachi",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Anja Helm",
+		"name": "H1 Craft Anja Helm",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Anja Mail",
+		"name": "H1 Craft Anja Mail",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Anja Greaves",
+		"name": "H1 Craft Anja Greaves",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Anja Helm",
+		"name": "H2 Craft Anja Helm",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Anja Mail",
+		"name": "H2 Craft Anja Mail",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Anja Greaves",
+		"name": "H2 Craft Anja Greaves",
 		"region": "Anjanath",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rathalos Helm",
+		"name": "H1 Craft Rathalos Helm",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rathalos Mail",
+		"name": "H1 Craft Rathalos Mail",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rathalos Greaves",
+		"name": "H1 Craft Rathalos Greaves",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rathalos Helm",
+		"name": "H2 Craft Rathalos Helm",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rathalos Mail",
+		"name": "H2 Craft Rathalos Mail",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rathalos Greaves",
+		"name": "H2 Craft Rathalos Greaves",
 		"region": "Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rath Soul Helm",
+		"name": "H1 Craft Rath Soul Helm",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rath Soul Mail",
+		"name": "H1 Craft Rath Soul Mail",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P1 Craft Rath Soul Greaves",
+		"name": "H1 Craft Rath Soul Greaves",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rath Soul Helm",
+		"name": "H2 Craft Rath Soul Helm",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rath Soul Mail",
+		"name": "H2 Craft Rath Soul Mail",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []
 	},
 	{
-		"name": "P2 Craft Rath Soul Greaves",
+		"name": "H2 Craft Rath Soul Greaves",
 		"region": "Azure Rathalos",
 		"category": ["Crafting"],
 		"requires": []

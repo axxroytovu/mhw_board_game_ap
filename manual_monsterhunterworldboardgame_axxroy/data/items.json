@@ -85,109 +85,109 @@
 	},
 	{
 		"count":1,
-		"name": "P1 Alternate Weapon T1",
+		"name": "H1 Alternate Weapon T1",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Ore Weapon T2",
+		"name": "H1 Ore Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Ore Weapon T3",
+		"name": "H1 Ore Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Alternate Weapon T1",
+		"name": "H2 Alternate Weapon T1",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Ore Weapon T2",
+		"name": "H2 Ore Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Ore Weapon T3",
+		"name": "H2 Ore Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Bone Weapon T2",
+		"name": "H1 Bone Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Bone Weapon T3",
+		"name": "H1 Bone Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Bone Weapon T2",
+		"name": "H2 Bone Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Bone Weapon T3",
+		"name": "H2 Bone Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Jagras Weapon T2",
+		"name": "H1 Jagras Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Jagras Weapon T3",
+		"name": "H1 Jagras Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Kadachi Weapon T2",
+		"name": "H2 Kadachi Weapon T2",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Kadachi Weapon T3",
+		"name": "H2 Kadachi Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Rathalos Weapon T3",
+		"name": "H1 Rathalos Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P1 Rathalos Weapon T4",
+		"name": "H1 Rathalos Weapon T4",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Anjanath Weapon T3",
+		"name": "H2 Anjanath Weapon T3",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
 	{
 		"count":1,
-		"name": "P2 Anjanath Weapon T4",
+		"name": "H2 Anjanath Weapon T4",
 		"category": ["Weapon","Craftable"],
 		"useful": true
 	},
@@ -316,5 +316,95 @@
 		"name": "Rath Soul Greaves",
 		"category": ["Armor","Craftable"],
 		"useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Attack Boost",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Ailment Cure",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Shieldspire",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Vigorwasp Spray",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Flashfly Cage",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Rath-of-Meow",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Meowlotov Cocktail",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Plunderblade",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Dodge Boost",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count":2,
+	    "name": "Coral Orchestra - Defense Boost",
+	    "category": ["Palico"],
+	    "useful": true
+	},
+	{
+	    "count": 2,
+	    "name": "Vespoid Attack",
+	    "category": ["Trap"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Paratoad",
+	    "category": ["Trap"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Sleeptoad",
+	    "category": ["Trap"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Poisoncup",
+	    "category": ["Trap"],
+	    "trap": true
+	},
+	{
+	    "count": 2,
+	    "name": "Nitrotoad",
+	    "category": ["Trap"],
+	    "trap": true
 	}
 ]
