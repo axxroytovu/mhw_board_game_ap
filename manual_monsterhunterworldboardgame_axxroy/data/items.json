@@ -764,5 +764,11 @@
 	    "name": "Nitrotoad",
 	    "category": ["Trap", "Ancient Forest"],
 	    "trap": true
+	},
+	{
+	    "count":3,
+	    "name": "One resource of your choice",
+	    "category": ["Resource"],
+	    "useful": true
 	}
 ]
